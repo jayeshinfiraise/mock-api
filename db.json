@@ -1,10 +1,5 @@
 {
-"influencer" : 
-  {
-  "isSuccess": true,
-  "success": true,
-  "message": "",
-  "data": [
+"influencer" : [
     {
       "vInfluencerId": "abhishek_kar",
       "vUserId": "abhishek_kar",
@@ -418,5 +413,4 @@
       ]
     }
   ]
-}
 }
